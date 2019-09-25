@@ -1,4 +1,4 @@
-//Write a function which calculates and returns the minimum of 4 arguments.
+//Write a function which calculates and returns the minimum of 4 arguments .
 public class Task_5 {
 
 
