@@ -1,10 +1,9 @@
 public class Task_11 {
     public static void main(String[] args) {
-        System.out.println("     *     ");
-        System.out.println("    ***    ");
-        System.out.println("   *****   ");
-        System.out.println("  *******  ");
-        System.out.println(" ********* ");
-        System.out.println("***********");
+        String[] stars = {"     *     ", "    ***    ", "   *****   ", "  *******  ", " ********* ", "***********" };
+        for (String i : stars) {
+            System.out.println(i);
+        }
+
     }
 }

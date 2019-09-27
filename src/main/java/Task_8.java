@@ -5,9 +5,10 @@
 //        **********
 public class Task_8 {
     public static void main(String[] args) {
-        System.out.println("**********");
-        System.out.println("**********");
-        System.out.println("**********");
-        System.out.println("**********");
+        int i = 0;
+        do {
+            System.out.println("**********");
+            i++;
+        } while (i < 4);
     }
 }
